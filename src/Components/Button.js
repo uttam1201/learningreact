@@ -7,7 +7,7 @@ export default function Button(props) {
 
     return(
         <>
-        <button onClick={()=>props.toggelemode()}> clickme </button>
+        <button onClick={()=>props.toggelemode()}> clickmefgdfgdfgdfgdgd </button>
         </>
     )
 
